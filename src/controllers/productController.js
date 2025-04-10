@@ -4,7 +4,7 @@ res.status(200).json({ message: "Demo Product Created"});
 
 
  const getAllProducts = (req, res) => {
-    res.status(200).json({message: "This is backend local host "});
+    res.status(200).json({message: "This is backend local hostttttttttttttttt "});
 };
 
  const getProductByID = (req, res) => {
